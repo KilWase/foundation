@@ -1,4 +1,4 @@
-<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+cncf<!-- SPDX-License-Identifier: CC-BY-4.0 -->
 
 ## Ownership of Copyrights in CNCF Project Contributions
 
