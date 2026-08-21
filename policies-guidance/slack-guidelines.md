@@ -25,3 +25,20 @@ Slack guidelines patterned after the [HubSpot Developer Slack Code of Conduct](h
 Unacceptable behavior from any community member will not be tolerated.
 
 If a community member engages in any behavior that violates these guidelines or any other policy of CNCF, including the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md), CNCF staff may take any action deemed appropriate, up to and including deleting unacceptable content, removing someone from a channel, or deactivating an account.
+.
+RobertKielty commented 3 days ago
+@RobertKielty
+RobertKielty
+3d ago
+Contributor
+I see that sometimes you do not have to click on
+
+More Message Shortcuts...
+
+to get to 'Report Message reporter' option
+
+Also I can see the old 'Report to Slack' method appears on the ⋮ menu before the newer method.
+
+If we are directing people to use the newer method do we need to explicitly warn them off from using the old method?
+
+Skip to content
